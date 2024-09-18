@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    color: rgb(0, 0, 0);
+}
+#section1{
+    background-color: rgba(98, 98, 98, 0.357);
+    height: 60px;
+    font-size: 40px;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+}
+#section2{
+    background-color: rgba(98, 98, 98, 0.357);
+    height: 20px;
+    text-align: center;
+    justify-items: center;
+
+}
+#section3{
+    background-color: gray;
+    height: 150vh;
+    align-items: center;
+    text-align: center;
+}
+.titulo1{
+    color: rgb(0, 0, 0);
+    font-size: 25px;
+}
+.info{
+    color: black;
+    font-size: 15px;
+}
+.butao{
+   background-color: aqua;
+   width: 5vh;
+}
+
